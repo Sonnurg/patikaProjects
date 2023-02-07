@@ -1,0 +1,25 @@
+body{
+   background-color: antiquewhite;
+   display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.board{
+    margin-top: 10%;
+    position: relative;
+    height: max-content;
+    border: solid darkcyan 16px;
+    width: max-content;
+    padding: 5%;
+    font-weight: 400;
+}
+.board h1{
+    font-size: 50px;
+    font-weight: 400;
+    color: coral;
+}
+.board h3, 
+h2{
+    font-weight: 400;
+}
